@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NomeanTimer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="crops_list">作物リスト</string>
+    <string name="crops_list_by_charactor">キャラ別作物リスト</string>
+    
+    <!-- crops -->
+    <string name="cropname_000">ヒゲ菜</string>
+    <string name="cropname_001">リンゴ</string>
+    <string name="cropname_002">冬ムギ</string>
+    <string name="cropname_003">キイチゴ</string>
+    <string name="cropname_004">森トウガラシ</string>
+    <string name="cropname_005">シカ角キノコ</string>
+    <string name="add_crop">追加する</string>
+    <string name="breed">品種</string>
+    <string name="charactor">キャラクター</string>
+    <string name="channel">チャンネル</string>
+    <string name="plant">植えるにゃ！</string>
+
+</resources>
